@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [@aion-germany](https://github.com/sve1r/aion-germany)
 - 🌱 I’m currently learning #JAVA #JVM #JAVASCRIPT #SpringMVC #Spring Boot
 - 💬 Ask me about #EVERYTHING
-- 📫 How to reach me: Telegram: [![](https://img.shields.io/badge/t.me/sve1r?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/sve1r)
+- 📫 How to reach me: Telegram: [![](https://img.shields.io/badge/-t.me/sve1r-3db6f1?style=for-the-badge&logo=Telegram&logoColor=2ca5e0)](https://t.me/sve1r)
 
 
 ### Languages and Tools
