@@ -2,8 +2,8 @@
 ---
 > Better Creative, Better Life
 
-[![Sveir's github stats](https://github-readme-stats.vercel.app/api?username=sve1r)](https://github.com/anuraghazra/github-readme-stats)
-[![Sveir's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sve1r&layout=compact&hide_border=true&title_color=a0a9af)](https://github.com/anuraghazra/github-readme-stats)
+[![Sveir's github stats](https://github-readme-stats.vercel.app/api?username=sve1r&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Sveir's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sve1r&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Now
