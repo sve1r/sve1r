@@ -16,9 +16,11 @@
 ---
 ### Languages
  #### Got
-![](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=fff) 
+![](https://img.shields.io/badge/-Java-FF6600?style=for-the-badge&logo=Java&logoColor=fff) 
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=for-the-badge&logo=JavaScript&labelColor=f5dd1c&logoColor=000) 
 ![](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=fff)
+![](https://img.shields.io/badge/-CSS3-00C300?style=for-the-badge&logo=HTML5&logoColor=fff)
+
 
  #### Learning
 ![](https://img.shields.io/badge/-C%20Sharp-007396?style=for-the-badge&logo=C%20Sharp) 
@@ -33,3 +35,7 @@
 ### Platforms
 ![](https://img.shields.io/badge/-Vercel-111111?style=for-the-badge&logo=Vercel&logoColor=fff)
 ![](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=FFF) 
+![](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=FFF) 
+![](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=FFF) 
+![](https://img.shields.io/badge/-Amazon%20AWS-FF9900?style=for-the-badge&logo=Amazon%20AWS&logoColor=FFF) 
+![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=Google%20Cloud&logoColor=FFF) 
