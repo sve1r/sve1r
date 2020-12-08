@@ -14,5 +14,22 @@
 - 📫 How to reach me: Telegram: [![](https://img.shields.io/badge/-t.me/sve1r-3db6f1?style=for-the-badge&logo=Telegram&logoColor=2ca5e0)](https://t.me/sve1r)
 
 ---
-### Languages and Tools
-![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=for-the-badge&logo=JavaScript&labelColor=f5dd1c&logoColor=000) ![](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=fff) ![](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=fff) ![](https://img.shields.io/badge/-Vercel-111111?style=for-the-badge&logo=Vercel&logoColor=fff) ![](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=FFF)
+### Languages
+ #### Got
+![](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=fff) 
+![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=for-the-badge&logo=JavaScript&labelColor=f5dd1c&logoColor=000) 
+![](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=fff)
+
+ #### Learning
+![](https://img.shields.io/badge/-C%20Sharp-007396?style=for-the-badge&logo=C%20Sharp) 
+![](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.Net&logoColor=fff) 
+
+
+### Tools
+![](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=fff) 
+![](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=fff) 
+![](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&label_color=fff)
+
+### Platforms
+![](https://img.shields.io/badge/-Vercel-111111?style=for-the-badge&logo=Vercel&logoColor=fff)
+![](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=FFF) 
