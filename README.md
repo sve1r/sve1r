@@ -16,6 +16,8 @@
 ---
 ### Languages
  #### Got
+![](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=C&logoColor=fff) 
+![](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=fff) 
 ![](https://img.shields.io/badge/-Java-FF6600?style=for-the-badge&logo=Java&logoColor=fff) 
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=for-the-badge&logo=JavaScript&labelColor=f5dd1c&logoColor=000) 
 ![](https://img.shields.io/badge/-HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=fff)
@@ -23,7 +25,8 @@
 
 
  #### Learning
-![](https://img.shields.io/badge/-C%20Sharp-007396?style=for-the-badge&logo=C%20Sharp) 
+![](https://img.shields.io/badge/-C%20Sharp-007396?style=for-the-badge&logo=C%20Sharp)
+![](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=fff) 
 ![](https://img.shields.io/badge/-.NET-5C2D91?style=for-the-badge&logo=.Net&logoColor=fff) 
 
 
