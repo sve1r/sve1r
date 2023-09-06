@@ -5,6 +5,9 @@
 [![Sveir's github stats](https://github-readme-stats.vercel.app/api?username=sve1r&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 [![Sveir's github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sve1r&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Thank you for the visit.
+![](http://profile-counter.glitch.me/sve1r/count.svg)
+
 ---
 ### Now
 
